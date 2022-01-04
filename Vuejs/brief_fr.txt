@@ -1,0 +1,20 @@
+Test entretien Cafeyn
+
+
+
+Projet : 
+
+Recréer à l'identique une page de catégorie du site Cafeyn.
+
+
+
+Documents :
+
+Dans le dossier /design ce trouve les captures d'écran permettant de créer les pages. le fichier 'design-info.jpg' apporte des informations de style.
+
+Toutes les ressources nécessaires sont dans le dossier /assets. Le fichier 'category_quotidien.json' permet de récupérer les données à afficher.
+
+
+Rendu :
+
+Le rendu peut se faire par email avec un zip en pièces jointes, via un repository Github ou encore via un lien codePen.
