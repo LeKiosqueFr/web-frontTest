@@ -6,6 +6,8 @@ Project :
 
 Create a category page of the Cafeyn website.
 
+PS : Currently, we work with VueJS 2, Typescript 4.1.5 and scss
+
 
 Documents :
 
