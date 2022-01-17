@@ -6,7 +6,8 @@ Projet :
 
 Recréer à l'identique une page de catégorie du site Cafeyn.
 
-PS : Actuellement, nous utilisons VueJS 2, Typescript 4.1.5 et scss.
+Actuellement, nous utilisons VueJS 2, Typescript 4.1.5 et scss.
+PS: Si vous êtes plus à l'aise avec React vous pouvez l'utiliser pour ce test.
 
 Documents :
 
