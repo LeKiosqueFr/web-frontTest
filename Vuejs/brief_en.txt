@@ -6,8 +6,8 @@ Project :
 
 Create a category page of the Cafeyn website.
 
-PS : Currently, we work with VueJS 2, Typescript 4.1.5 and scss
-
+Currently, we work with VueJS 2, Typescript 4.1.5 and scss.
+PS: You can use React for this test if you are more confortable.
 
 Documents :
 
