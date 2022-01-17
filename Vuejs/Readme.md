@@ -11,6 +11,7 @@ In the /design folder you will find the screenshots used to create the pages. th
 
 All the necessary resources are in the / assets folder. The 'category_quotidien.json' file allows you to retrieve the data to display.
 
+cf brief_fr or bried_en to more information.
 
 Render :
 
