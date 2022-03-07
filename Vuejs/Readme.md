@@ -6,6 +6,7 @@ Create a category page of the Cafeyn website.
 
 Documents :
 
+Read the brief_en.txt or brief_fr.txt
 
 In the /design folder you will find the screenshots used to create the pages. the 'design-info.jpg' file provides style information.
 
